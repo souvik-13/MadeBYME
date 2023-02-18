@@ -1,0 +1,14 @@
+First import "Game-package-name.*"
+To run the game just run the "play" method of the respective game.
+
+For example :- 
+
+
+import Guessing_Game.*;
+
+public class Play_Games {
+    public static void main(String[] args) {
+        Guessing_Game.play();
+    }
+}
+
